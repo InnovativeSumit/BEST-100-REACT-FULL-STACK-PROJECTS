@@ -34,7 +34,7 @@
 
 <p align="center">This project is a modern and responsive color palette generator built with React, Vite, and TailwindCSS. It provides a seamless experience for generating, exploring, and managing color schemes for your design projects.</p>
 
----
+
 
 ## ✨ Features
 
@@ -43,7 +43,7 @@
 -   **Responsive Design**: Optimized for various screen sizes, from desktop to mobile.
 -   **Modern Stack**: Built with React for dynamic UIs, Vite for fast development, and TailwindCSS for utility-first styling.
 
----
+
 ## 🚀 Getting Started
 
 To get a local copy up and running, follow these simple steps.
@@ -140,11 +140,11 @@ Paste these lines into your `index.css` file:
     npm install axios
     ```
 
----
 
 
 
----
+
+
 
 ## 🤝 Contributions and Feedback
 
