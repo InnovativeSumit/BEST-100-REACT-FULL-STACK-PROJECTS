@@ -142,6 +142,16 @@ Paste these lines into your `index.css` file:
 
 ---
 
+
+
+---
+
+## 🤝 Contributions and Feedback
+
+We welcome contributions and feedback to improve this project! The current version of this README.md file has been updated based on valuable modifications suggested by the user in the issues section. Your input helps us make this tool even better.
+
+If you have any suggestions, feature requests, or bug reports, please feel free to open an issue or submit a pull request.
+
 ## 🌟 Let's Connect
 
 I'm passionate about collaborating on innovative projects and sharing knowledge about *coding, design, robotics, and AI*. Let's build something amazing together!  
@@ -153,12 +163,4 @@ I'm passionate about collaborating on innovative projects and sharing knowledge 
 ⭐ Star this repo on GitHub — it helps!
 
 
-
----
-
-## 🤝 Contributions and Feedback
-
-We welcome contributions and feedback to improve this project! The current version of this README.md file has been updated based on valuable modifications suggested by the user in the issues section. Your input helps us make this tool even better.
-
-If you have any suggestions, feature requests, or bug reports, please feel free to open an issue or submit a pull request.
 
