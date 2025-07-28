@@ -1,4 +1,4 @@
-# Color Palette Generator
+# 🎨 Color Palette Generator
 
 <h1 align="center">
   <img
@@ -67,7 +67,7 @@ npm run dev
 -   <b><em>`npm install`</em></b>: Installs all necessary Node.js modules and dependencies.
 -   <b><em>`npm run dev`</em></b>: Starts the development server and opens the application in your browser (by default at `http://localhost:5173/`).
 
-------
+
 ## 🛠️ Technologies Used
 
 This project leverages the following key technologies:
@@ -78,7 +78,7 @@ This project leverages the following key technologies:
 -   **React Icons**: For including popular icons in your React projects.
 -   **Axios**: A promise-based HTTP client for the browser and node.js.
 
----
+
 
 ## 💡 Manual Setup (For Reference)
 
