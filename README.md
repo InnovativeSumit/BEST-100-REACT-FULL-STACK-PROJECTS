@@ -116,16 +116,19 @@ This repository offers unparalleled value for developers at all stages of their 
 *   **Community Contribution:** As an open-source project, contributions are welcome, allowing you to engage with a community of developers and further enhance the repository.
 
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-
-
 ## #️⃣ Hashtags for SEO
 
 #ReactProjects #FullStackDevelopment #WebDevelopment #FreeCode #ReactJS #NodeJS #MongoDB #AIinWeb #MachineLearning #OpenSource
+
+
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
+
 
 <div align="center">
 <p>Made with ❤️ by <strong>SUMIT PAL</strong></p>
@@ -140,6 +143,7 @@ I'm passionate about collaborating on innovative projects and sharing knowledge 
 
 <p>For questions or support, please open an issue on the repository.</p>
 </div>
+
 
 
 
