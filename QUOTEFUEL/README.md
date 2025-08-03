@@ -240,6 +240,9 @@ This version of QuoteFuel features:
 - **Enhanced Title**: Descriptive page title in browser
 
 <div align="center">
+**Built with ❤️ using React + Vite**
+
+*Fuel your motivation with QuoteFuel!*
 <p>Made with ❤️ by <strong>SUMIT PAL</strong></p>
 
 🌟 Let's Connect
@@ -254,7 +257,5 @@ I'm passionate about collaborating on innovative projects and sharing knowledge 
 </div>
 
 
-**Built with ❤️ using React + Vite**
 
-*Fuel your motivation with QuoteFuel!*
 
