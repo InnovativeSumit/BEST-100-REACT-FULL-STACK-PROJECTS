@@ -240,9 +240,7 @@ Special recognition goes to the teams behind Vite for revolutionizing the develo
 ### Modern Web Standards
 This project leverages modern web APIs including the Clipboard API and HTML5 color inputs, demonstrating the power of contemporary web platform capabilities.
 
-## 📄 License
 
-This project is open source and available under the MIT License. Feel free to use, modify, and distribute according to the license terms.
 
 ## 🔮 Future Enhancements
 
@@ -255,7 +253,17 @@ Potential improvements for future versions could include:
 - Keyboard shortcuts for power users
 - Integration with design systems and component libraries
 
----
+<div align="center">
+<p>Made with ❤️ by <strong>SUMIT PAL</strong></p>
 
-**Created with ❤️ using React and modern web technologies**
+🌟 Let's Connect
+
+I'm passionate about collaborating on innovative projects and sharing knowledge about *coding, design, robotics, and AI*. Let's build something amazing together!  
+
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339) 
+
+⭐ Star this repo on GitHub — it helps!
+
+<p>For questions or support, please open an issue on the repository.</p>
+</div>
 
