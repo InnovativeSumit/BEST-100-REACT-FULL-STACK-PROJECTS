@@ -140,6 +140,15 @@ NewsWave/
 5. Submit a pull request
 
 
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
+
+
 <div align="center">
 <p>Made with ❤️ by <strong>SUMIT PAL</strong></p>
 
@@ -153,5 +162,6 @@ I'm passionate about collaborating on innovative projects and sharing knowledge 
 
 <p>For questions or support, please open an issue on the repository.</p>
 </div>
+
 
 
