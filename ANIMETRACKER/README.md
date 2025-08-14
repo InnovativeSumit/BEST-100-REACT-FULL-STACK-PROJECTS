@@ -213,6 +213,15 @@ If you encounter any issues or have questions:
 2. Review the project documentation
 3. Create an issue in the project repository
 
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
+
+
 <div align="center">
 <p>Made with ❤️ by <strong>SUMIT PAL</strong></p>
 
@@ -226,4 +235,8 @@ I'm passionate about collaborating on innovative projects and sharing knowledge 
 
 <p>For questions or support, please open an issue on the repository.</p>
 </div>
+
+
+
+
 
