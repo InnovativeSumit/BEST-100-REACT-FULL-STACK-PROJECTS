@@ -239,10 +239,16 @@ This version of QuoteFuel features:
 - **Custom Favicon**: Branded favicon in browser tabs
 - **Enhanced Title**: Descriptive page title in browser
 
-<div align="center">
-**Built with ❤️ using React + Vite**
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
 
-*Fuel your motivation with QuoteFuel!*
+
+<div align="center">
 <p>Made with ❤️ by <strong>SUMIT PAL</strong></p>
 
 🌟 Let's Connect
