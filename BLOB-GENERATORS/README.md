@@ -253,6 +253,15 @@ Potential improvements for future versions could include:
 - Keyboard shortcuts for power users
 - Integration with design systems and component libraries
 
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
+
+
 <div align="center">
 <p>Made with ❤️ by <strong>SUMIT PAL</strong></p>
 
@@ -266,4 +275,7 @@ I'm passionate about collaborating on innovative projects and sharing knowledge 
 
 <p>For questions or support, please open an issue on the repository.</p>
 </div>
+
+
+
 
