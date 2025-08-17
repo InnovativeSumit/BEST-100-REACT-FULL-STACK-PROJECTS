@@ -1,0 +1,58 @@
+{
+  "name": "cryptotracker-pro",
+  "version": "1.0.0",
+  "description": "A modern, professional cryptocurrency price tracking application with real-time updates and elegant UI",
+  "private": true,
+  "type": "module",
+  "keywords": [
+    "cryptocurrency",
+    "crypto",
+    "price-tracker",
+    "bitcoin",
+    "ethereum",
+    "react",
+    "vite",
+    "tailwindcss",
+    "real-time",
+    "coingecko"
+  ],
+  "author": "Manus AI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/crypto-price-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/crypto-price-checker/issues"
+  },
+  "homepage": "https://github.com/your-username/crypto-price-checker#readme",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.13.0",
+    "eslint-plugin-react": "^7.37.1",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.13",
+    "globals": "^15.11.0",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "vite": "^5.4.9"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=7.0.0"
+  }
+}
