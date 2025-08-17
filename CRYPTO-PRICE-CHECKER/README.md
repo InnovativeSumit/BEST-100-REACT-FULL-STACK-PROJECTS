@@ -634,34 +634,33 @@ The above copyright notice and this permission notice shall be included in all c
 - Open source contributors who make projects like this possible
 - Cryptocurrency community for driving innovation in financial technology
 
-## 📞 Support
 
-### Getting Help
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
 
-**Documentation:**
-- Read through this comprehensive README
-- Check the inline code comments
-- Review the project structure and architecture
 
-**Community Support:**
-- GitHub Discussions for general questions
-- Stack Overflow with `cryptotracker-pro` tag
-- React community forums and Discord servers
+<div align="center">
+<p>Made with ❤️ by <strong>SUMIT PAL</strong></p>
 
-**Bug Reports:**
-- GitHub Issues for bug reports and feature requests
-- Provide detailed information and reproduction steps
-- Include system and browser information
+🌟 Let's Connect
 
-### Contact Information
+I'm passionate about collaborating on innovative projects and sharing knowledge about *coding, design, robotics, and AI*. Let's build something amazing together!  
 
-- **Project Repository**: [GitHub Repository](https://github.com/your-username/crypto-price-checker)
-- **Issue Tracker**: [GitHub Issues](https://github.com/your-username/crypto-price-checker/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/crypto-price-checker/discussions)
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339) 
 
----
+⭐ Star this repo on GitHub — it helps!
 
-**Built with ❤️ by [Manus AI](https://manus.ai) | © 2025 CryptoTracker Pro**
+<p>For questions or support, please open an issue on the repository.</p>
+</div>
 
-*Disclaimer: This application is for informational purposes only. Cryptocurrency prices are volatile and past performance does not guarantee future results. Always conduct your own research before making investment decisions.*
+
+
+
+
+
 
