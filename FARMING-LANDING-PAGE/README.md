@@ -270,24 +270,26 @@ If you encounter issues:
 3. Ensure you're using the correct Node.js version
 4. Review the Vite documentation for build-related issues
 
-## 📄 License
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
 
-This project is created for educational and demonstration purposes. Feel free to use it as a template for your own projects.
 
-## 🤝 Contributing
+<div align="center">
+<p>Made with ❤️ by <strong>SUMIT PAL</strong></p>
 
-If you'd like to contribute to this project:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
+🌟 Let's Connect
 
-## 📞 Support
+I'm passionate about collaborating on innovative projects and sharing knowledge about *coding, design, robotics, and AI*. Let's build something amazing together!  
 
-For questions or support regarding this project, please refer to the documentation or create an issue in the project repository.
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339) 
 
----
+⭐ Star this repo on GitHub — it helps!
 
-**Built with ❤️ for modern agriculture and sustainable farming practices.**
+<p>For questions or support, please open an issue on the repository.</p>
+</div>
 
