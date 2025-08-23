@@ -2,7 +2,6 @@
 
 A modern, interactive web application built with React that generates pure sine wave tones at customizable frequencies. This project demonstrates the power of the Web Audio API combined with a sleek, responsive user interface designed with Tailwind CSS.
 
-![Frequency Generator Screenshot](./docs/screenshot.png)
 
 ## Table of Contents
 
@@ -681,4 +680,5 @@ I'm passionate about collaborating on innovative projects and sharing knowledge 
 
 <p>For questions or support, please open an issue on the repository.</p>
 </div>
+
 
