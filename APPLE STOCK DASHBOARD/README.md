@@ -161,19 +161,27 @@ The app uses Tailwind CSS. Customize colors and styles in:
 2. Add context providers in `src/contexts/` if needed
 3. Update the main `Dashboard.jsx` to include new features
 
-## 📄 License
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
 
-This project is open source and available under the MIT License.
 
-## 🤝 Contributing
+<div align="center">
+<p>Made with ❤️ by <strong>SUMIT PAL</strong></p>
 
-1. Fork the project
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
+🌟 Let's Connect
 
-## 📞 Support
+I'm passionate about collaborating on innovative projects and sharing knowledge about *coding, design, robotics, and AI*. Let's build something amazing together!  
 
-For support or questions, please open an issue in the project repository.
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339) 
+
+⭐ Star this repo on GitHub — it helps!
+
+<p>For questions or support, please open an issue on the repository.</p>
+</div>
+
 
