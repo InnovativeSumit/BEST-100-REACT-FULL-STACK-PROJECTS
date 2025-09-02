@@ -184,34 +184,29 @@ The website is fully responsive and optimized for:
 2. Copy contents of `dist` folder to your web server
 3. Configure server to serve `index.html` for all routes
 
-## 🤝 Contributing
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
 
-## 📞 Support
+<div align="center">
+<p>Made with ❤️ by <strong>SUMIT PAL</strong></p>
 
-For support or questions about this project:
-- Email: support@bloodconnect.org
-- Phone: +1-800-BLOOD-HELP
-- Emergency: +1-800-URGENT
+🌟 Let's Connect
 
-## 📄 License
+I'm passionate about collaborating on innovative projects and sharing knowledge about *coding, design, robotics, and AI*. Let's build something amazing together!  
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339) 
 
-## 🙏 Acknowledgments
+⭐ Star this repo on GitHub — it helps!
 
-- React team for the amazing framework
-- Vite team for the fast build tool
-- Lucide for the beautiful icons
-- Framer Motion for smooth animations
-- All blood donors who inspire this project
+<p>For questions or support, please open an issue on the repository.</p>
+</div>
 
----
 
-**Built with ❤️ for saving lives through blood donation**
+
 
