@@ -80,15 +80,30 @@ The app uses Google's Gemini 1.5 Flash model to generate stories. Each story gen
 - `npm run build`: Build for production
 - `npm run preview`: Preview production build
 - `npm run lint`: Run ESLint
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
 
-## Troubleshooting
 
-If you encounter issues:
+<div align="center">
+<p>Made with ❤️ by <strong>SUMIT PAL</strong></p>
 
-1. **API Errors**: Check that your Gemini API key is valid and properly set in `.env`
-2. **Build Issues**: Try deleting `node_modules` and running `npm install` again
-3. **Port Conflicts**: The app runs on port 5173 by default, ensure it's available
+🌟 Let's Connect
 
-## License
+I'm passionate about collaborating on innovative projects and sharing knowledge about *coding, design, robotics, and AI*. Let's build something amazing together!  
 
-© 2024 Myth Weaver | All rights reserved
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339) 
+
+⭐ Star this repo on GitHub — it helps!
+
+<p>For questions or support, please open an issue on the repository.</p>
+</div>
+
+
+
+
+
