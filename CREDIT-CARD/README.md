@@ -1,4 +1,4 @@
-# Credit Card Validator with Interactive Animation
+# Credit Card Validator with Interactive Animationss
 
 ## Project Overview
 
