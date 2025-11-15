@@ -16,7 +16,7 @@ If you encounter any issues or have questions:
 
 
 <div align="center">
-<p>Made with ❤️ by <strong>SUMIT pal </strong></p>
+<p>Made with ❤️ by <strong>SUMIT PAL </strong></p>
 
 🌟 Let's Connect
 
