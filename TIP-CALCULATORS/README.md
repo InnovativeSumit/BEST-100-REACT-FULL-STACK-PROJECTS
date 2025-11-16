@@ -182,29 +182,30 @@ Consider adding these features:
 - Save calculation history
 - Dark mode toggle
 
-## 🤝 Contributing
 
-We welcome contributions to improve the Tip Calculator! Here's how you can help:
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
 
-### Getting Started
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add amazing feature'`)
-5. Push to the branch (`git push origin feature/amazing-feature`)
-6. Open a Pull Request
 
-### Contribution Guidelines
-- Follow the existing code style and conventions
-- Add comments for complex logic
-- Test your changes thoroughly
-- Update documentation if needed
-- Ensure all linting checks pass
+<div align="center">
+<p>Made with ❤️ by <strong>SUMIT PAL</strong></p>
 
-### Bug Reports
-If you find a bug, please create an issue with:
-- Clear description of the problem
-- Steps to reproduce the issue
-- Expected vs actual behavior
-- Screenshots if applicable
+🌟 Let's Connect
+
+I'm passionate about collaborating on innovative projects and sharing knowledge about *coding, design, robotics, and AI*. Let's build something amazing together!  
+
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339) 
+
+⭐ Star this repo on GitHub — it helps!
+
+<p>For questions or support, please open an issue on the repository.</p>
+</div>
+
+
+
 
