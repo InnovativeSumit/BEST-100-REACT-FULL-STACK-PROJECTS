@@ -1,4 +1,4 @@
-## 📞 Supports
+## 📞 Support
 
 If you encounter any issues or have questions:
 
