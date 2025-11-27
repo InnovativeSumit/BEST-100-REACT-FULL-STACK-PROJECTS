@@ -272,57 +272,6 @@ The application follows Web Content Accessibility Guidelines (WCAG) 2.1 Level AA
 - **Hover Tolerance**: Generous hover areas for precise interaction
 - **No Time Limits**: Game can be played at user's own pace
 
-## 🔧 Configuration
-
-### Tailwind CSS Configuration
-
-The `tailwind.config.js` file includes custom configurations:
-
-```javascript
-/** @type {import('tailwindcss').Config} */
-export default {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],
-  theme: {
-    extend: {
-      fontFamily: {
-        sans: ['Inter', 'system-ui', 'sans-serif'],
-      },
-      animation: {
-        'fadeIn': 'fadeIn 0.6s ease-out',
-        'bounce-custom': 'bounce 1s ease-in-out',
-      }
-    },
-  },
-  plugins: [],
-}
-```
-
-### Vite Configuration
-
-The `vite.config.js` includes optimizations for development and production:
-
-```javascript
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-
-export default defineConfig({
-  plugins: [react()],
-  server: {
-    port: 5173,
-    open: true
-  },
-  build: {
-    outDir: 'dist',
-    sourcemap: true
-  }
-})
-```
-
-## 🚀 Deployment
-
 ### Production Build
 
 To create a production-ready build:
@@ -468,44 +417,41 @@ SOFTWARE.
 - **Google Fonts**: For the beautiful Inter font family
 - **Open Source Community**: For inspiration and best practices
 
+ 
+
+
 ## 📞 Support
 
 If you encounter any issues or have questions:
 
-1. **Check the FAQ** section below
-2. **Review the troubleshooting** guide
-3. **Search existing issues** (if repository available)
-4. **Create a new issue** with detailed information
+1. Check the troubleshooting section above
+2. Review the project documentation
+3. Create an issue in the project repository
 
-### FAQ
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
 
-**Q: The game doesn't load properly**
-A: Ensure you have Node.js 16+ installed and run `npm install` before `npm run dev`
 
-**Q: Colors look different on my monitor**
-A: Color perception can vary between displays. The game uses standard RGB values that should be consistent across properly calibrated monitors.
+<div align="center">
+<p>Made with ❤️ by <strong>SUMIT PAL </strong></p>
 
-**Q: Can I add more difficulty levels?**
-A: Yes! Modify the `difficulty` state and `generateSimilarColor` function in `ColorGuesser.jsx`
+🌟 Let's Connect
 
-**Q: How do I deploy this to my own domain?**
-A: Run `npm run build` and upload the `dist` folder contents to your web server
+I'm passionate about collaborating on innovative projects and sharing knowledge about *coding, design, robotics, and AI*. Let's build something amazing together!  
 
-### Troubleshooting
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339) 
 
-#### Common Issues
+⭐ Star this repo on GitHub — it helps!
 
-**Issue**: `npm run dev` fails with dependency errors
-**Solution**: Delete `node_modules` and `package-lock.json`, then run `npm install`
+<p>For questions or support, please open an issue on the repository.</p>
+</div>
 
-**Issue**: Styles not loading correctly
-**Solution**: Ensure Tailwind CSS is properly configured and PostCSS is processing the styles
 
-**Issue**: Game performance is slow
-**Solution**: Check browser developer tools for console errors and ensure hardware acceleration is enabled
 
----
 
-**Built with ❤️ using React, Vite, and Tailwind CSS**
 
-*Last updated: December 2024*
